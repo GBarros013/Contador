@@ -23,7 +23,7 @@ Este é um projeto de exemplo que demonstra a criação de um contador simples u
 - Botão de incremento: Aumenta o valor do contador em 1 unidade.
 - Botão de decremento: Diminui o valor do contador em 1 unidade.
 - Exibição do valor atual: Mostra o valor atual do contador na tela.
-- 
+  
 
 ## Tecnologias Utilizadas
 
