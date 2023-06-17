@@ -6,8 +6,7 @@ Este é um projeto de exemplo que demonstra a criação de um contador simples u
 ## Tabela de Conteúdos
 
 - [Visão Geral](#visão-geral)
-  - [Funcionalidades](#funcionalidades)
-  - [Demo](#demo)
+- [Funcionalidades](#funcionalidades)  
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Usar](#como-usar)
 - [Contribuição](#contribuição)
@@ -24,10 +23,7 @@ Este é um projeto de exemplo que demonstra a criação de um contador simples u
 - Botão de incremento: Aumenta o valor do contador em 1 unidade.
 - Botão de decremento: Diminui o valor do contador em 1 unidade.
 - Exibição do valor atual: Mostra o valor atual do contador na tela.
-
-### Demo
-
-![print](Contador/Capturar.PNG)
+- 
 
 ## Tecnologias Utilizadas
 
